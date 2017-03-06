@@ -12,6 +12,7 @@ RUN \
     apt-get install libmcrypt-dev -y && \
     apt-get install libicu-dev -y && \
     apt-get install php5-gd -y && \
+    apt-get install php5-xcache -y && \
     apt-get install php-apc -y && \
     apt-get install mcrypt -y && \
     apt-get install zip -y && \
